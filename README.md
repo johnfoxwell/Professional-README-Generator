@@ -10,8 +10,9 @@ This is a command-line application used to generate a readme based user response
 ![Full page screenshot](./assets/readme-test.JPG)
 
 
-## Link
-[Click here](https://github.com/johnfoxwell/Professional-README-Generator)
+## Links
+[Repo Link](https://github.com/johnfoxwell/Professional-README-Generator)
+[Video Link](https://github.com/johnfoxwell/Professional-README-Generator)
 
 
 ## Developed by:

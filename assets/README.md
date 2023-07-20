@@ -1,8 +1,8 @@
 
-  # Testing Application
+  # Simple Project Title
 
   ## Description
-  This application is soley used for testing purposes and should only be used when the server is up and running.
+  This is testing app used to check the browser functionality of your app.
 
 
   ## Table of Contents
@@ -16,19 +16,19 @@
 
 
   ## Installation
-  Please fork the GitHub repo and install the application locally to your machine. Then copy the content of the directory into your applications root folder.
+  Copy contents of the repo into the root of your application.
 
 
   ## Usage
-  Free usage.
+  Free use.
 
 
   ## Contributing
-  Currently not taking any contributions from users directly. Please reach out to me directly if you have questions or concerns about the application.
+  Fork repo and push changes to feature branch.
 
 
   ## Tests
-  npm run test
+  Run "npm run test"
 
 
   ## License
@@ -36,8 +36,8 @@
 
 
   ## Questions
-  Developed by: GitHubUser123
+  Developed by: sampleuser123
   <br>
 
-  Please email me at: sample@gmail.com if you have any additional questions about the application!
+  Please email me at: email@gmail.com if you have any additional questions about the application!
   
